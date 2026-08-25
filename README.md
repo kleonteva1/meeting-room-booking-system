@@ -9,7 +9,7 @@
 - [User Story и критерии приёмки](docs/03-user-stories.md)
 - [Use Case](docs/04-use-cases.md)
 - [BPMN](docs/05-diagrams/bpmn.svg)
-- [ERD](docs/05-diagrams/erd.md)
+- [ERD](docs/05-diagrams/erd/erd.md)
 - [Sequence Diagram](docs/05-diagrams/sequence/booking-sequence.svg)
 - [Прототип](docs/06-prototype/prototype.md)
 - [SQL](docs/07-sql/)
