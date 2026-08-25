@@ -1,5 +1,4 @@
 -- DDL
-
 CREATE TABLE users (
     id_user INT PRIMARY KEY,
     full_name VARCHAR(255) NOT NULL,
@@ -31,7 +30,6 @@ CREATE TABLE bookings (
 );
 
 -- DML
-
 INSERT INTO users (id_user, full_name, phone, email, position) VALUES
     (1, 'Анна Смирнова', '+79990000001', 'anna@example.com', 'Аналитик'),
     (2, 'Иван Петров', '+79990000002', 'ivan@example.com', 'Разработчик'),
